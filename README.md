@@ -5,6 +5,8 @@ https://cursos.alura.com.br/course/devops-trabalhando-repositorios-GitHub
 
 # AllBooks
 
+Boas-vindas à API AllBooks!
+
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
